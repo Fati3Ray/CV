@@ -145,7 +145,7 @@ section {
 .imgchisono {
   /* display: none; */
   background: transparent;
-  background-image: url("IMG_0232.jpg");
+  background-image: url("fotocv.jpg");
   background-repeat: no-repeat;
   background-position: center;
   position: absolute;
@@ -159,7 +159,7 @@ section {
 }
 
 .imgchisono:hover {
-  background-image: url("IMG_0232.jpg");
+  background-image: url("fotocv.jpg");
   opacity: 0.2;
 }
 
