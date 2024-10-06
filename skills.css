@@ -110,7 +110,7 @@
 }
 
 .skills-column:nth-child(1) .skills-content .progressi:nth-child(3) .barra span {
-    width: 65%;
+    width: 80%;
 }
 
 .skills-column:nth-child(1) .skills-content .progressi:nth-child(4) .barra span {
@@ -118,7 +118,7 @@
 }
 
 .skills-column:nth-child(1) .skills-content .progressi:nth-child(5) .barra span {
-    width: 90%;
+    width: 95%;
 }
 
 .skills-column:nth-child(1) .skills-content .progressi:nth-child(6) .barra span {
@@ -127,7 +127,7 @@
 
 /* BARRA DELLE SOFT SKILLS */
 .skills-column:nth-child(2) .skills-content .progressi:nth-child(1) .barra span {
-    width: 100%;
+    width: 95%;
 }
 
 .skills-column:nth-child(2) .skills-content .progressi:nth-child(2) .barra span {
@@ -143,7 +143,7 @@
 }
 
 .skills-column:nth-child(2) .skills-content .progressi:nth-child(5) .barra span {
-    width: 85%;
+    width: 95%;
 }
 
 .skills-column:nth-child(2) .skills-content .progressi:nth-child(6) .barra span {
