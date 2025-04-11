@@ -16,7 +16,7 @@
 }
 
 section {
-  min-height: 100vh;
+  min-height: 70vh;
   padding: 10rem 9% 2rem;
 }
 
@@ -44,33 +44,8 @@ section {
 
 .chisono-contenuti .chisono-animazione {
   position: relative;
-  width: 40rem;
+  width: 48rem;
 }
-
-/* .chisono-contenuti .chisono-animazione h3 {
-  font-size: 3.5rem;
-  font-weight: 700;
-  color: transparent; 
-  background-image: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255));
-  background-repeat: no-repeat;
-  -webkit-background-clip: text;
-  background-position: .33rem 0;
-  animation: homeBgText 6s linear infinite;
-  animation-delay: 1s; 
-}
-
-.chisono-contenuti .chisono-animazione h3::before {
-  content:'';
-  position: absolute;
-  top:0;
-  left: 0;
-  width: 0;
-  height: 100%;
-  border-right: 2px solid var(--backg-color);
-  z-index: -1;
-  animation: homeCursorText 6s linear infinite;
-  animation-delay: 1s;
-} */
 
 .chisono-contenuti .chisono-animazione {
   display: inline-flex;
@@ -82,7 +57,7 @@ section {
   width: 100%;
   white-space: nowrap;
   overflow: hidden;
-  animation: typing 7s steps(20, end) infinite,
+  animation: typing 10s steps(30, end) infinite,
     cursor 0.4s step-end infinite alternate;
 }
 
@@ -103,6 +78,7 @@ section {
     width: 100%;
   }
 }
+
 
 .chisono-contenuti p {
   font-size: 2rem;
@@ -145,7 +121,7 @@ section {
 .imgchisono {
   /* display: none; */
   background: transparent;
-  background-image: url("fotocv.jpg");
+  background-image: url("IMG_0232.jpg");
   background-repeat: no-repeat;
   background-position: center;
   position: absolute;
@@ -159,7 +135,7 @@ section {
 }
 
 .imgchisono:hover {
-  background-image: url("fotocv.jpg");
+  background-image: url("IMG_0232.jpg");
   opacity: 0.2;
 }
 
